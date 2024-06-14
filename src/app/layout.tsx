@@ -1,7 +1,6 @@
 import "~/styles/globals.css";
 
 import { GeistSans } from "geist/font/sans";
-import Navbar from "./_components/navbar";
 
 export const metadata = {
   title: "Lily O'Sullivan",

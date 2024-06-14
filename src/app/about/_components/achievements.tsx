@@ -1,5 +1,3 @@
-import DatedSection from "./dated_section";
-
 export default function Achievements() {
   return (
     <section className="mx-auto flex gap-x-10 py-7">

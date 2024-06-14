@@ -1,5 +1,4 @@
 import Link from "next/link";
-import { navigationMenuTriggerStyle } from "~/components/ui/navigation-menu";
 
 export default function Navbar() {
   return (
